@@ -77,7 +77,7 @@ namespace ReportesActividadSemana13
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1050, 100);
+            this.panel1.Size = new System.Drawing.Size(1150, 100);
             this.panel1.TabIndex = 0;
             // 
             // btnSalir
@@ -87,7 +87,7 @@ namespace ReportesActividadSemana13
             this.btnSalir.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(15)))), ((int)(((byte)(29)))), ((int)(((byte)(47)))));
             this.btnSalir.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnSalir.Image = global::ReportesActividadSemana13.Properties.Resources.salida_Exist_Opcional;
-            this.btnSalir.Location = new System.Drawing.Point(1001, 10);
+            this.btnSalir.Location = new System.Drawing.Point(1101, 9);
             this.btnSalir.Name = "btnSalir";
             this.btnSalir.Size = new System.Drawing.Size(37, 35);
             this.btnSalir.TabIndex = 14;
@@ -97,7 +97,7 @@ namespace ReportesActividadSemana13
             // txbEmpleado
             // 
             this.txbEmpleado.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txbEmpleado.Location = new System.Drawing.Point(790, 58);
+            this.txbEmpleado.Location = new System.Drawing.Point(853, 57);
             this.txbEmpleado.Name = "txbEmpleado";
             this.txbEmpleado.Size = new System.Drawing.Size(133, 24);
             this.txbEmpleado.TabIndex = 13;
@@ -106,7 +106,7 @@ namespace ReportesActividadSemana13
             // txbCliente
             // 
             this.txbCliente.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txbCliente.Location = new System.Drawing.Point(522, 58);
+            this.txbCliente.Location = new System.Drawing.Point(585, 57);
             this.txbCliente.Name = "txbCliente";
             this.txbCliente.Size = new System.Drawing.Size(133, 24);
             this.txbCliente.TabIndex = 12;
@@ -116,7 +116,7 @@ namespace ReportesActividadSemana13
             // 
             this.dtpHasta.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dtpHasta.Format = System.Windows.Forms.DateTimePickerFormat.Short;
-            this.dtpHasta.Location = new System.Drawing.Point(292, 58);
+            this.dtpHasta.Location = new System.Drawing.Point(355, 57);
             this.dtpHasta.Name = "dtpHasta";
             this.dtpHasta.Size = new System.Drawing.Size(117, 24);
             this.dtpHasta.TabIndex = 11;
@@ -126,7 +126,7 @@ namespace ReportesActividadSemana13
             // 
             this.dtpDe.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dtpDe.Format = System.Windows.Forms.DateTimePickerFormat.Short;
-            this.dtpDe.Location = new System.Drawing.Point(105, 58);
+            this.dtpDe.Location = new System.Drawing.Point(168, 57);
             this.dtpDe.Name = "dtpDe";
             this.dtpDe.Size = new System.Drawing.Size(117, 24);
             this.dtpDe.TabIndex = 10;
@@ -136,7 +136,7 @@ namespace ReportesActividadSemana13
             // 
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(195)))), ((int)(((byte)(155)))), ((int)(((byte)(211)))));
-            this.label5.Location = new System.Drawing.Point(684, 62);
+            this.label5.Location = new System.Drawing.Point(747, 61);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(114, 21);
             this.label5.TabIndex = 9;
@@ -147,7 +147,7 @@ namespace ReportesActividadSemana13
             // 
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(195)))), ((int)(((byte)(155)))), ((int)(((byte)(211)))));
-            this.label4.Location = new System.Drawing.Point(452, 62);
+            this.label4.Location = new System.Drawing.Point(515, 61);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(73, 21);
             this.label4.TabIndex = 8;
@@ -158,7 +158,7 @@ namespace ReportesActividadSemana13
             // 
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(195)))), ((int)(((byte)(155)))), ((int)(((byte)(211)))));
-            this.label3.Location = new System.Drawing.Point(228, 62);
+            this.label3.Location = new System.Drawing.Point(291, 61);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(58, 21);
             this.label3.TabIndex = 7;
@@ -169,7 +169,7 @@ namespace ReportesActividadSemana13
             // 
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(195)))), ((int)(((byte)(155)))), ((int)(((byte)(211)))));
-            this.label2.Location = new System.Drawing.Point(52, 62);
+            this.label2.Location = new System.Drawing.Point(115, 61);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(58, 21);
             this.label2.TabIndex = 6;
@@ -197,7 +197,7 @@ namespace ReportesActividadSemana13
             this.reportViewer2.Location = new System.Drawing.Point(0, 100);
             this.reportViewer2.Name = "reportViewer2";
             this.reportViewer2.ServerReport.BearerToken = null;
-            this.reportViewer2.Size = new System.Drawing.Size(1050, 550);
+            this.reportViewer2.Size = new System.Drawing.Size(1150, 550);
             this.reportViewer2.TabIndex = 1;
             // 
             // SP_ListaComprobantesTableAdapter
@@ -209,7 +209,7 @@ namespace ReportesActividadSemana13
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(15)))), ((int)(((byte)(29)))), ((int)(((byte)(47)))));
-            this.ClientSize = new System.Drawing.Size(1050, 650);
+            this.ClientSize = new System.Drawing.Size(1150, 650);
             this.Controls.Add(this.reportViewer2);
             this.Controls.Add(this.panel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
